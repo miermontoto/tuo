@@ -1,3 +1,6 @@
 [submodule "tuo-backend"]
 	path = tuo-backend
 	url = https://github.com/miermontoto/tuo-backend
+[submodule "tuo-frontend"]
+	path = tuo-frontend
+	url = https://github.com/miermontoto/tuo-frontend
